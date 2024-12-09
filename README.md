@@ -7,3 +7,4 @@ https://www.cdc.gov/westnile/statsmaps/historic-data.html
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 US temperature records for specified dates can be accessed with NASA data access viewer: 
 https://power.larc.nasa.gov/data-access-viewer/
+December, 9, 2024.
