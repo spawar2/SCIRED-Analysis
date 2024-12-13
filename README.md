@@ -8,3 +8,4 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 US temperature records for specified dates can be accessed with NASA data access viewer: 
 https://power.larc.nasa.gov/data-access-viewer/
 Date created/updated: December, 9, 2024.
+![download](https://github.com/user-attachments/assets/692bedcf-c174-4fc6-ad1e-cb56e415c410)
